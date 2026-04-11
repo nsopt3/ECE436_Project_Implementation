@@ -66,14 +66,14 @@ The python script has a function called **matplotlib** that can plot any one of 
 - ~~Part 1: Collect data~~ 
     - [x] [COMPLETE]
     <br>
-- Part 2: Parse all the data 
-    - [ ] [INCOMPLETE]
+- ~~Part 2: Parse all the data~~ 
+    - [x] [COMPLETE]
     <br>
-- Part 3: Calculate all the metrics 
-    - [ ] [INCOMPLETE]
+- ~~Part 3: Calculate all the metrics~~ 
+    - [x] [COMPLETE]
     <br>
-- Part 4: HTTP/HTTPS or DNS Behavior study 
-    - [ ] [INCOMPLETE]
+- ~~Part 4: HTTP/HTTPS or DNS Behavior study~~ 
+    - [x] [COMPLETE]
     <br>
 - Part 5: 3 Page report on implementation part of project 
     - [ ] [INCOMPLETE]

@@ -62,6 +62,16 @@ The python script has a function called **matplotlib** that can plot any one of 
     - In the python analysis, we can filter for HTTP traffic as well. (most likely port 443?) 
     - We can then map out the volume of data exchanged with those IP addresses. 
 ---
+## Screenshots of parsed and collected data:
+
+
+<img width="1011" height="608" alt="Part 3 - Top 10 flows by total bytes" src="https://github.com/user-attachments/assets/d27d96da-f1e4-44a9-b700-d2b8009602a1" />
+<img width="807" height="512" alt="Part 3 - Protocol distribution by packet count" src="https://github.com/user-attachments/assets/e8a477ae-1a29-4f52-9c80-fd80f71ebaf7" />
+<img width="813" height="514" alt="Part 3 - Packet size distribution" src="https://github.com/user-attachments/assets/d49bb288-8933-4f0f-bf53-54e77ee83acf" />
+<img width="830" height="524" alt="Part 3 - InterArrival time distribution" src="https://github.com/user-attachments/assets/94fc27d1-3d3a-4e28-b9d4-03c66976a9f0" />
+<img width="1452" height="781" alt="Part 4 - DNS   HTTP Behavior Analysis" src="https://github.com/user-attachments/assets/8457181e-9b42-43aa-a2b4-5ea26ab2bc6e" />
+
+---
 ## To do:
 - ~~Part 1: Collect data~~ 
     - [x] [COMPLETE]

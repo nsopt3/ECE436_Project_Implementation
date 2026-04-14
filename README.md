@@ -85,6 +85,6 @@ The python script has a function called **matplotlib** that can plot any one of 
 - ~~Part 4: HTTP/HTTPS or DNS Behavior study~~ 
     - [x] [COMPLETE]
     <br>
-- Part 5: 3 Page report on implementation part of project 
-    - [ ] [INCOMPLETE]
+- ~~Part 5: 3 Page report on implementation part of project~~ 
+    - [x] [INCOMPLETE]
 
